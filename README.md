@@ -1,8 +1,2 @@
-welcome to bug city yes the name is diamond city but 
-it has to many bugs still that i need to work so let call
-it that well this project was originated by this random guy 
-whos name i forgot but if you search Guthgame you should find 
-anyways we colaborated and will continue this project into its 
-max this is diamond city enjoy well fix everything i promise but 
-star and fallow us for more thanks anyways remenber this is just 
-a beta thanks see you soon 
+Welcome, this my Game in which we have put so much effort to make. I hope u enjoy the experience amd share so this gets to more people, 
+this still on development and have yet not gotten a name if you have suggestion i will be glad to hear about it. anyways i wanna let you know that there will be alot of bugs since im only one on this proyect yet i hope to make a better experience for you. This has only gotten 3 updates you can find first version by searching Guthgame on github search bar and well all next updates will be left here mark. thanks to everyones who will be here, have a great experience.
